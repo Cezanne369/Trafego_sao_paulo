@@ -105,17 +105,12 @@ Notificações automáticas (Telegram / E-mail)
 
 API própria para os dados históricos coletados
 
-👨‍💻 Autor
-Jean
+👨‍💻 Autor Jean
 Projeto desenvolvido para aprimorar habilidades em:
 
 Data Engineering
-
 APIs
-
 ETL
-
 Visualização de Dados
-
 Python para automação
 
